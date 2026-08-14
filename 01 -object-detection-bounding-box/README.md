@@ -36,9 +36,9 @@ Annotations were reviewed to ensure:
 
 ## Skills Demonstrated
 
-Image Annotation
-Object detection
-Bounding box labeling
-Dataset quality control
-CVAT
-Roboflow
+-Image Annotation
+-Object detection
+-Bounding box labeling
+-Dataset quality control
+-CVAT
+-Roboflow
