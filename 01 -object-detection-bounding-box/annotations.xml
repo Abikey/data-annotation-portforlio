@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2513446</id>
+      <name>Car Dataset</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-12 22:58:21.754609+00:00</created>
+      <updated>2026-08-12 23:28:43.401474+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4358514</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/tasks/2513446/dataset/export/api/jobs/4360646</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>Humayrah</username>
+        <email>aishadknl@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-08-14 14:03:02.162270+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_000087 (2).png" width="1920" height="1080">
+    <box label="Car" source="manual" occluded="0" xtl="391.60" ytl="389.10" xbr="528.69" ybr="523.50" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="863.86" ytl="411.80" xbr="979.72" ybr="573.20" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="899.00" ytl="666.28" xbr="1081.10" ybr="964.21" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="619.72" ytl="153.17" xbr="678.70" ybr="217.80" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="432.49" ytl="132.61" xbr="496.86" ybr="197.00" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="609.52" ytl="57.51" xbr="648.80" ybr="98.60" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="598.79" ytl="32.47" xbr="638.10" ybr="62.80" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="656.01" ytl="0.90" xbr="685.90" ybr="34.20" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="541.60" ytl="9.23" xbr="582.70" ybr="39.60" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="601.10" ytl="10.41" xbr="634.21" ybr="37.31" z_order="0">
+    </box>
+    <box label="Car" source="manual" occluded="0" xtl="640.41" ytl="2.14" xbr="659.00" ybr="10.40" z_order="0">
+    </box>
+  </image>
+</annotations>
