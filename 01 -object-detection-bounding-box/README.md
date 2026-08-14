@@ -11,7 +11,7 @@ This project demonstrates practical experience in image annotation using boundin
 ## Tool Used
 
   - CVAT
-  - Roboflow
+    
  
 ## Objective
 
@@ -37,8 +37,12 @@ Annotations were reviewed to ensure:
 ## Skills Demonstrated
 
 -Image Annotation
+
 -Object detection
+
 -Bounding box labeling
+
 -Dataset quality control
+
 -CVAT
--Roboflow
+
