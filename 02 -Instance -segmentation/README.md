@@ -23,8 +23,8 @@ To accurately identify individual objects in images and create precise pixel-lev
 ## Skills demonstrated 
 
 -Instance Segmentation
--Polygon Annotation
--Object Identification
-Image Annotation
-Annotation quality control
+ -Polygon Annotation
+ -Object Identification
+ -Image Annotation
+ -Annotation quality control
 
