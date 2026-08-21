@@ -1,42 +1,23 @@
 ## Annotation Quality Assurance
 
-This Project demonstrates the quality assurance process used to review and validate image annotations before dataset delivery.
+This Project demonstrates a quality review of an instance segmentation annotation.
 
-## QA Checks Performed
+## Issue Identified
 
-- Checked Annotations for correct class labels
-  
-- Verified that bounding boxes and polygons accurately covered the target objects
+During the QA review, one object was found to be missing from the annotation.
 
-- Checked for Incorrect or inconsistence labels
+## Correction
 
-- Reviewed overlapping or duplicate annotations
-
-- Ensured annotations consistency across images
-
-## Annotation Review Process
-
-- Reviewed completed annotations
-
-- Compared annotations against the original images
-
-- Identified annotations errors and inconsistencies
-
-- Corrected inaccurate labels or boundaries.
-
-- Performed a final quality check before completion.
-
-## Tools Used
-
-- CVAT
-- Roboflow
-- Label studio
+The missed object was identified and correctly segmented during the QA process 
 
 ## Skills demonstrated
 
-- Annotation Quality Control
+- Annotation Quality Assurance
+- Visual Inspection
+- Error identification
+- Instance segmentation review
+- Attention to detail
 
-- Error Detection And Correction
-- Label Consistency
-- Boundary Accuracy
-- Dataset review and validation
+  ## Tool used
+
+  Roboflow
