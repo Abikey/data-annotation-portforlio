@@ -4,19 +4,27 @@ This Project demonstrates the quality assurance process used to review and valid
 
 ## QA Checks Performed
 
-Checked Annotations for correct class labels
-Verified that bounding boxes and polygons accurately covered the target objects
-Checked for Incorrect or inconsistence labels
-Reviewed overlapping or duplicate annotations
-Ensured annotations consistency across images
+- Checked Annotations for correct class labels
+  
+- Verified that bounding boxes and polygons accurately covered the target objects
+
+- Checked for Incorrect or inconsistence labels
+
+- Reviewed overlapping or duplicate annotations
+
+- Ensured annotations consistency across images
 
 ## Annotation Review Process
 
-Reviewed completed annotations
-Compared annotations against the original images
-Identified annotations errors and inconsistencies
-Corrected inaccurate labels or boundaries
-Performed a final quality check before completion.
+- Reviewed completed annotations
+
+- Compared annotations against the original images
+
+- Identified annotations errors and inconsistencies
+
+- Corrected inaccurate labels or boundaries.
+
+- Performed a final quality check before completion.
 
 ## Tools Used
 
