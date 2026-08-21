@@ -32,9 +32,11 @@ This Project demonstrates the quality assurance process used to review and valid
 - Roboflow
 - Label studio
 
-  ## Skills demonstrated
-  Annotation Quality Control
-  Error Detection And Correction
-  Label Consistency
-  Boundary Accuracy
-  Dataset review and validation
+## Skills demonstrated
+
+- Annotation Quality Control
+
+- Error Detection And Correction
+- Label Consistency
+- Boundary Accuracy
+- Dataset review and validation
