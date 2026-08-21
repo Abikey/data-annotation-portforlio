@@ -1,4 +1,4 @@
-# Aerial Image Annotation - Building
+# Aerial/Geospatial Image Annotation - Building
 
 ## Project Overview
 
